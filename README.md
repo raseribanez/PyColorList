@@ -2,6 +2,8 @@
 An RGB tool I created for personal reference
 pyColorList
 
+see the lower case readme file for use - editing seems to throw my layout off balance
+
 NOTE: I am still working on this - I may upload a rough or unfinished version, but 
 it is not really ready yet. It does run as an importable module, but needs work
 
@@ -54,15 +56,22 @@ USAGE:
 
 1. SHELL:
     >>> from pyColorList import colorList
+    
     >>> print colorList
+    
     >>> from pyColorlist import <color from list> 
+    
     >>> print <color from list>
 
 2. TERMINAL:
     Open the script directory in a terminal,
+    
     Run the Python Interpreter ( >>> python)
+    
     >>> from pyColorList import colorList
+    
     >>> print colorList
+    
     >>> print <color from list>
 
 3. STAND-ALONE:
