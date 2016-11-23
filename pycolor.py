@@ -22,7 +22,9 @@ print('-------------------------------------------')
 print('Terminal Use: from pycolor import <color>  ')
 print('Terminal Use: <print color> to see RGB values')
 
-colorList = 'black | gray | white | red | orange | brown | yellow | green | lime | turquoise | cyan | sky | blue | purple | magenta | pink'
+colorList = 'black | gray | white | red | orange | brown | yellow | green | lime | turquoise | cyan | sky | blue | purple | magenta | pink | crimson | lightPink | hotPink | raspberry | orchid | plum | violet | darkViolet | indigo | navyBlue | cobalt | skyBlue | lightBlue | azure | teal | mint | honeydew | limeGreen | ivory | beige | olive | khaki | banana | gold | wheat | moccasin | eggshell | tan | brick | melon | carrot | chocolate | flesh | sienna | coral | sepia | salmon | tomato | snow | fireBrick | maroon | lightGrey | silver | darkGrey | gray'
+
+
 # Original colors added originally for testing   
 
 black      = (0,   0,   0  ),
