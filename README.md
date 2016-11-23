@@ -77,3 +77,7 @@ USAGE:
 3. STAND-ALONE:
     Just open her up in IDLE and you can see the code (and values)
     (It will also run in IDLE)  
+    
+    
+ I am making a very simple Pygame app to go with this, that allows the user to test a colour
+ by creating a small window with a background colour displaying a colour of choice
