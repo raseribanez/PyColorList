@@ -81,3 +81,12 @@ USAGE:
     
  I am making a very simple Pygame app to go with this, that allows the user to test a colour
  by creating a small window with a background colour displaying a colour of choice
+ 
+ 
+ I have made a Tkinter app that has Pygame linked to it, so basically you have 2 buttons, and an entrybox 
+ 
+ 1: Button to Print color list to see colors available 
+ 2: Enter color name
+ 3 Button to get the RGB value for that colour, AND open a little Pygame window to show the color as a background
+ 
+ Runs but I am having issues linking the chosen colour with pygame, I can make it run and the pygame window show etc, but it will only let me add the RGB values myself
